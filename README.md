@@ -1,6 +1,6 @@
 # 🖱️ Mouse Trail App
 
-A Mouse Trail, made by me and ChatGPT in an attempt to learn and understand C++! 
+A Mouse Trail, made by me, ChatGPT and Gemini in an attempt to learn and understand C++! 
 
 I am really sorry, but if you haven't already caught up, **this is only for a Windows machine**. For Linux and Mac, I am getting it ready, so don't much worry! 😉
 
